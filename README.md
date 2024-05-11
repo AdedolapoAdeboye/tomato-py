@@ -13,16 +13,16 @@ If you want to collaborate, simply mail me at my email address ==> (abrahamadebo
 
 I hope this program helps you alot.
 
-# REQUIREMENTS:
+## REQUIREMENTS:
 	1. Python (Python3 recommended)
 	2. Tkinter
 
 ## USAGE:
-	1. Clone the repository using the "```git clone command```"
+	1. Clone the repository using the [git clone command]
 	2. Install the neccessary modules required to run the program efficiently (all required modules in requirements.txt)
 	3. Run the app.py or app-gui.py or android.py depending on your preferences using;
-  		- ```./{program_name}``` ==> On Mac/Linux/Windows
-  		- ```python3 {program_name}``` ==> on Termux on Android Environment
+  		- [./{program_name}] ==> On Mac/Linux/Windows
+  		- [python3 {program_name}] ==> on Termux on Android Environment
 
 # NB: 
-## This is a free software and you're free to share but always include credit. Thanks
+This is a free software and you're free to share but always include credit. Thanks
