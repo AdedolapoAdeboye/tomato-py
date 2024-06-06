@@ -1,28 +1,45 @@
-# Tomato-py
-Hey Welcome, This is a Scientific Calculator named Tomato as you can see in the repository...
-There are 3 important files in the repo you need to focus on namely;
+# Tomato-py 🍅
 
-app.py ==>The basic file for basic code. It runs in the terminal.
-app-gui.py  ==> The basic file plus advanced Features like GUI usint Tkinter. It can be use on Mac/Windows/Linux Environment
-android.py  ==> This is a still the same file but it's been modified to Kivy-based so as to be ported to android executable file.
+Welcome to Tomato-py, the scientific calculator you never knew you needed, but now can't live without! This powerhouse is capable of making you a math wizard whether you're on your desktop, mobile, or just avoiding that awkward conversation at a party.
 
+## Files of Interest 📂
+- **`app.py`**: The terminal-bound, no-nonsense calculator.
+- **`app-gui.py`**: The snazzy GUI version using Tkinter. Works across Mac, Windows, and Linux.
+- **`android.py`**: The cool cousin, tailored for Android with Kivy.
 
-There are still rooms for many improvement because it will still be ported to a Windows Executable file(.exe), Debian package(.deb), Macintosh Image file (.deg) and Adroid Application package (.apk).
+## Future Plans 🚀
+Expect versions for:
+- Windows (`.exe`)
+- Debian (`.deb`)
+- Macintosh (`.dmg`)
+- Android (`.apk`)
 
-If you want to collaborate, simply mail me at my email address ==> (abrahamadeboye00@gmail.com)
+## Collaboration 🤝
+Want to jump on the Tomato train? Email me at [abrahamadeboye00@gmail.com](mailto:abrahamadeboye00@gmail.com).
 
-I hope this program helps you alot.
+## Requirements 🛠️
+- Python 3.x
+- Tkinter (for GUI)
 
-## REQUIREMENTS:
-	1. Python (Python3 recommended)
-	2. Tkinter
+## How to Use 🏃
+1. **Clone the repo**:
+   ```sh
+   git clone https://github.com/AdedolapoAdeboye/tomato-py
+   ```
+2. **Install dependencies**:
+   ```sh
+   pip install -r requirements.txt
+   ```
+3. **Run your preferred version**:
+   ```sh
+   python3 app.py      # For terminal
+   python3 app-gui.py  # For GUI
+   python3 android.py  # For Android
+   ```
 
-## USAGE:
-	1. Clone the repository using the [git clone command]
-	2. Install the neccessary modules required to run the program efficiently (all required modules in requirements.txt)
-	3. Run the app.py or app-gui.py or android.py depending on your preferences using;
-  		- [./{program_name}] ==> On Mac/Linux/Windows
-  		- [python3 {program_name}] ==> on Termux on Android Environment
+## Notes 📋
+This software is free. Share it, but credit me. Happy calculating!
 
-# NB: 
-This is a free software and you're free to share but always include credit. Thanks
+---
+
+Enjoy your math journey with Tomato-py!
